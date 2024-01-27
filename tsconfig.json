@@ -15,6 +15,9 @@
       "@screens": [
         "src/screens"
       ],
+      "@constants": [
+        "src/constants"
+      ],
     }
   },
   "include": [
