@@ -5,7 +5,7 @@
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
-    "lint": "eslint . --fix",
+    "lint": "eslint ./src --fix",
     "start": "react-native start",
     "test": "jest"
   },
@@ -37,7 +37,9 @@
     "eslint": "^8.55.0",
     "eslint-import-resolver-alias": "^1.1.2",
     "eslint-import-resolver-typescript": "^3.6.1",
-    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jest": "^27.6.3",
+    "fs": "^0.0.1-security",
     "jest": "^29.2.1",
     "prettier": "^2.8.8",
     "react-test-renderer": "18.2.0",

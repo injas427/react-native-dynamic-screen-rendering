@@ -1,1 +1,1 @@
-export { SCREEN_NAMES } from "./screen_names"
+export {SCREEN_NAMES} from './screen_names';
