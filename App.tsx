@@ -7,10 +7,11 @@
 
 import 'react-native-gesture-handler';
 
-import {AppNavigator} from './src/AppNavigator';
 import React from 'react';
 import {Colors} from 'react-native/Libraries/NewAppScreen';
 import {SafeAreaView, StatusBar, useColorScheme} from 'react-native';
+
+import {AppNavigator} from './src/AppNavigator';
 
 function App(): JSX.Element {
   const isDarkMode = useColorScheme() === 'dark';

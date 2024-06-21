@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "John",
+    "last_name": "Mat",
+    "profile_image": "https:picsum.photos/300",
+    "balance": "100.00",
+    "last_transaction_amount": "10",
+    "recent_transactions": [
+      {
+        "id": 1,
+        "amount": "10.00",
+        "sender": "Sender name",
+        "created_at": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "first_name": "Mariya",
+    "last_name": "Jacob",
+    "profile_image": "https:picsum.photos/300",
+    "balance": "10.00",
+    "last_transaction_amount": "10",
+    "recent_transactions": [
+      {
+        "id": 1,
+        "amount": "90.00",
+        "sender": "Sender name",
+        "created_at": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "first_name": "Mat",
+    "last_name": "Roy",
+    "profile_image": "https:picsum.photos/300",
+    "balance": "90.00",
+    "last_transaction_amount": "10",
+    "recent_transactions": [
+      {
+        "id": 1,
+        "amount": "1.00",
+        "sender": "Sender name",
+        "created_at": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "first_name": "Cei",
+    "last_name": "Tab",
+    "profile_image": "https:picsum.photos/300",
+    "balance": "10.00",
+    "last_transaction_amount": "10",
+    "recent_transactions": [
+      {
+        "id": 1,
+        "amount": "100.00",
+        "sender": "Sender name",
+        "created_at": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "first_name": "Jacob",
+    "last_name": "Roy",
+    "profile_image": "https:picsum.photos/300",
+    "balance": "0.00",
+    "last_transaction_amount": "10",
+    "recent_transactions": [
+      {
+        "id": 1,
+        "amount": "100.00",
+        "sender": "Sender name",
+        "created_at": ""
+      }
+    ]
+  }
+]
