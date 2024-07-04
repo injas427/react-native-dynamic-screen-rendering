@@ -20,6 +20,25 @@ export const HomeMetaData = {
   screens: {
     Home: [
       {
+        type: 'Button',
+        eventHandlers: [
+          {
+            type: 'onPress',
+            value: 'handler1',
+          },
+        ],
+        hide: true,
+      },
+      {
+        type: 'Button',
+        eventHandlers: [
+          {
+            type: 'onPress',
+            value: 'handler2',
+          },
+        ],
+      },
+      {
         type: 'Card',
         props: {
           style: styles.card,
